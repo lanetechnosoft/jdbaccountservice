@@ -11,7 +11,7 @@ public class CustOffsetInfoObjectRES {
     private List<CustAccOffsetInfoRES> acountinfo;
     //private List<FeeItem> feeLists;
     // todo: update new request Offset AccountInfo by ITNS on 20220509
-    //private List<FeeStructureRes> feelists;
+    private List<FeeStructureRes> feelists;
     //private List<ExchangeRateRes> exratelists;
     //private Boolean questoption;
     //private String prodcode;
