@@ -1,0 +1,120 @@
+{
+  "LAK": [
+    {
+      "from": 0,
+      "feeamount": 1000
+    },
+    {
+      "from": 2000001,
+      "feeamount": 1500
+    },
+    {
+      "from": 3000001,
+      "feeamount": 2500
+    },
+    {
+      "from": 4000001,
+      "feeamount": 3000
+    },
+    {
+      "from": 5000001,
+      "feeamount": 4500
+    },
+    {
+      "from": 7000001,
+      "feeamount": 7500
+    },
+    {
+      "from": 10000001,
+      "feeamount": 12000
+    },
+    {
+      "from": 30000001,
+      "feeamount": 15500
+    },
+    {
+      "from": 50000001,
+      "feeamount": 20000
+    },
+    {
+      "from": 100000001,
+      "feepercent": 0.01
+    }
+  ],
+  "THB": [
+    {
+      "from": 0,
+      "feeamount": 5
+    },
+    {
+      "from": 101,
+      "feeamount": 10
+    },
+    {
+      "from": 301,
+      "feeamount": 20
+    },
+    {
+      "from": 401,
+      "feeamount": 30
+    },
+    {
+      "from": 501,
+      "feeamount": 40
+    },
+    {
+      "from": 701,
+      "feeamount": 30
+    },
+    {
+      "from": 1001,
+      "feeamount": 50
+    },
+    {
+      "from": 3001,
+      "feeamount": 60
+    },
+    {
+      "from": 5001,
+      "feeamount": 70
+    }
+  ],
+  "USD": [
+    {
+      "from": 0,
+      "feeamount": 0.5
+    },
+    {
+      "from": 10,
+      "feeamount": 1
+    },
+    {
+      "from": 31,
+      "feeamount": 1.5
+    },
+    {
+      "from": 41,
+      "feeamount": 3
+    },
+    {
+      "from": 51,
+      "feeamount": 4.5
+    },
+    {
+      "from": 71,
+      "feeamount": 7.5
+    },
+    {
+      "from": 101,
+      "feeamount": 10
+    },
+    {
+      "from": 301,
+      "feeamount": 15
+    },
+    {
+      "from": 501,
+      "feeamount": 20
+    }
+  ]
+}

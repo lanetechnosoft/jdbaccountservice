@@ -1,0 +1,28 @@
+server:
+  port: 8088
+  servlet:
+    context-path: /api/v1/uat
+spring:
+  application:
+    name: online-account-service
+#    - global-online
+  profiles:
+    active: uat
+  #jackson:
+    #deserialization:
+    #  FAIL_ON_UNKNOWN_PROPERTIES: false
+    #defaultPropertyInclusion: non_null
+    #default-property-inclusion: use_defaults
+    #property-naming-strategy: SNAKE_CASE
+
+  cloud:
+    config:
+      uri:
+        - http://172.21.25.93:8186
+        # - http://config-online:8186
+      username: online
+      password: Conf@online
+  jpa:
+    show-sql: true
+page:
+  size: 50
